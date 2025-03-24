@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "transimter(nrf52832)",
+			"path": "../transimter(nrf52832)"
+		}
+	],
+	"settings": {}
+}
